@@ -1,4 +1,4 @@
-# Notika
+# The Beaver Admin Light and Dark Dashboard
 Free Bootstrap admin dashboard
 
 # Preview
